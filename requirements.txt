@@ -5,6 +5,5 @@ pandas
 plotly.express
 numpy
 matplotlib
-show(p)
 bokeh.io
 bokeh.plotting
