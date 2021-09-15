@@ -8,3 +8,4 @@ matplotlib
 bokeh
 seaborn
 jupyter_dash
+selenium
