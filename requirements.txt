@@ -9,5 +9,4 @@ bokeh
 seaborn
 jupyter_dash
 selenium
-geckodriver
-firefox
+selenium chromedriver-binary
