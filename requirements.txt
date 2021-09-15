@@ -9,4 +9,5 @@ bokeh
 seaborn
 jupyter_dash
 selenium
-conda-forge firefox geckodriver
+selenium geckodriver
+firefox
